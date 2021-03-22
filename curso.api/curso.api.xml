@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>curso.api</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:curso.api.Controllers.CursoController.Registrar(curso.api.Model.Cursos.CursoViewModel)" -->
+        <!-- Badly formed XML comment ignored for member "M:curso.api.Controllers.CursoController.GetCursos" -->
+        <!-- Badly formed XML comment ignored for member "M:curso.api.Controllers.UserController.Logar(curso.api.Model.Usuarios.LoginViewModelInput)" -->
+        <!-- Badly formed XML comment ignored for member "M:curso.api.Controllers.UserController.Registrar(curso.api.Model.Usuarios.RegistrarViewModelInput)" -->
+    </members>
+</doc>
